@@ -1,6 +1,6 @@
 # Controle de Estoque
 
-<img src="assets/images/controle-de-estoque-screenshot.png">
+<![controle-de-estoque-screenshot](https://github.com/user-attachments/assets/a5cb67c1-d8e8-4414-9a5c-40ad312ad7eb)>
 
 <p>Minha primeira aplicação PHP orientada a objetos em que tive como base em outros códigos. Tem upload de imagem, CRUD dinâmico, login etc. Utiliza a estrutura MVC e o Mysql. No Front-end utilizei o Bootstrap 4 e javascript puro (VanillaJS) para validar os formulários e fazer conta de multiplicação.</p>
 
